@@ -1,0 +1,16 @@
+.section1{
+  width: 100%;
+  height: 300px;
+}
+
+label{
+    float: left;
+    clear: left;
+    width: 200px;
+    text-align: right;
+    margin: 1em;
+}
+input {
+  float: left;
+  margin: 1em;
+}
